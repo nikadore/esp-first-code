@@ -2,7 +2,7 @@ import requests as req
 
 import time
 
-esp = "http://188.169.2.234:6006"
+esp = "http://ip-here:6006"
 
 # variables
 
